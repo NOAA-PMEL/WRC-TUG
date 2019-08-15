@@ -1,6 +1,10 @@
 # WRC Technology User Group Collaborative Repository
 
-Thanks for stopping by! Please feel free to contribute ideas or ask for help by starting a new issue. We hope to grow this repository with resolved issues being moved to either examples or documentation done via the Wiki.
+Thanks for stopping by! 
+
+Please feel free to contribute ideas or ask for help by starting a new issue. 
+
+We aim to grow this repository by adding code examples to the file tree and documentation to the [Wiki](https://github.com/NOAA-PMEL/WRC-TUG/wiki).
 
 All contributions welcome! :rocket:
 
