@@ -4,7 +4,8 @@ Thanks for stopping by!
 
 Please feel free to contribute ideas or ask for help by starting a new issue.
 
-Also, please join the email list here for announcements and upcoming meeting topics: https://forms.gle/KGVC8oJSRG6dwnUq6
+Also, please join the email list here for announcements and upcoming meeting topics: 
+- https://forms.gle/KGVC8oJSRG6dwnUq6
 
 We aim to grow this repository by adding code examples to the file tree and documentation to the [Wiki](https://github.com/NOAA-PMEL/WRC-TUG/wiki).
 
