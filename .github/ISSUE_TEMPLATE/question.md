@@ -3,7 +3,7 @@ name: Question
 about: Ask any question about anything we have covered
 title: ''
 labels: question
-assignees: darynwhite
+assignees: darynwhite, shaunwbell
 
 ---
 
