@@ -5,7 +5,7 @@ Thanks for stopping by!
 Please feel free to contribute ideas or ask for help by starting a new issue.
 
 Here is the Google Drive (for NOAA employees & CIs/Contractors) of past meeting references:
-- [NOAA-WRC | Tech Users Group](https://drive.google.com/drive/folders/1eL-VEQTYCuhG2cfal3EjRxbNJbTg-Den?usp=sharing)
+- [NOAA-WRC | Tech Users Group](https://drive.google.com/drive/folders/1nmUBFDWcotsV_teBgwHXkd9lJ7YHqEK6?usp=sharing)
 
 Also, please join the email list via [this form](https://forms.gle/KGVC8oJSRG6dwnUq6) for announcements and upcoming meeting topics.
 
