@@ -4,10 +4,10 @@ Thanks for stopping by!
 
 Please feel free to contribute ideas or ask for help by starting a new issue.
 
-Also, please join the email list here for announcements and upcoming meeting topics: 
-- https://forms.gle/KGVC8oJSRG6dwnUq6
+Here is the Google Drive (for NOAA employees & CIs/Contractors) of past meeting references:
+- [NOAA-WRC | Tech Users Group](https://drive.google.com/drive/folders/1eL-VEQTYCuhG2cfal3EjRxbNJbTg-Den?usp=sharing)
 
-We aim to grow this repository by adding code examples to the file tree and documentation to the [Wiki](https://github.com/NOAA-PMEL/WRC-TUG/wiki).
+Also, please join the email list via [this form](https://forms.gle/KGVC8oJSRG6dwnUq6) for announcements and upcoming meeting topics.
 
 All contributions welcome! :rocket:
 
