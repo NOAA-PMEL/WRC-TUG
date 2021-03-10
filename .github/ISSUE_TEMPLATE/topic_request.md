@@ -3,7 +3,7 @@ name: Topic request
 about: Suggest an idea for a monthly meeting
 title: ''
 labels: topic idea
-assignees: shaunwbell
+assignees: shaunwbell, darynwhite
 
 ---
 
