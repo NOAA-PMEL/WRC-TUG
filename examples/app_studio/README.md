@@ -5,7 +5,7 @@ I got the idea for this example from reading the [2023 Hurricane mission blog](h
 I built this on our development server (sour.pmel.noaa.gov).
 
 1. I disabled by current conda environment.
-2. I built a virtual environtment following [these instructions[(https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/).
+2. I built a virtual environtment following [these instructions](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/).
     * Namely: python3 -m venv .venv; source .venv/bin/activate
 3. I installed the app-studio package and all it's dependecies into this virtual environment.
    * pip install app-studio --extra-index-url=[CONTACT ME FOR THE MAGIC URL THAT GOES HERE].
