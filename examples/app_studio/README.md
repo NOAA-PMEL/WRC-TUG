@@ -1,6 +1,6 @@
 I created this [DASH application (PMEL VPN required)](https://dash.pmel.noaa.gov/tammy) using Plotly App Studio. The proceedure I followed was a bit convoluted because this is a pre-release product.
 
-I got the idea for this example from reading the ]2023 Hurricane mission blog](https://www.pmel.noaa.gov/saildrone-hurricane/2023/mission-blog-2023.html). The October 25 entry mentions the encounter with Hurricane Tammy. The interactive dashboard is not as cool as the animation in the blob, but one can actaully interact with the plots and data. It was simple enough to build, that similar things could be built and deployed during future missions and linked to from the blog.
+I got the idea for this example from reading the [2023 Hurricane mission blog](https://www.pmel.noaa.gov/saildrone-hurricane/2023/mission-blog-2023.html). The October 25 entry mentions the encounter with Hurricane Tammy. The interactive dashboard is not as cool as the animation in the blob, but one can actaully interact with the plots and data. It was simple enough to build, that similar things could be built and deployed during future missions and linked to from the blog.
 
 I built this on our development server (sour.pmel.noaa.gov).
 
