@@ -13,5 +13,5 @@ I built this on our development server (sour.pmel.noaa.gov).
   
 4. Created up my [notebook]() to load the data and make the two plots.
 5. Started App Studio. I used the following command since I wanted a specific host and port:
-  * PORT=8940;HOST=sour.pmel.noaa.gov app-studio app_studio_plots.ipynb
+     * PORT=8940;HOST=sour.pmel.noaa.gov app-studio app_studio_plots.ipynb
 6. Used the GUI to rearrange the plots and add the title, explanatory text, my name and contact info.
