@@ -28,6 +28,8 @@ Place this file in a directory for which the tomcat user running the ERDDAP has 
 
 We will use that fact as part of our answers when we run GenerateDatasetsXml.sh, so run it and choose the *EDDTableFromHttpGet* as the data type.
 
-After the directory name and file name (in this case you can leve it blank) you have to [identify which variables are "required"](https://coastwatch.pfeg.noaa.gov/erddap/download/setupDatasetsXml.html#httpGetRequiredVariables). In this example we'll say platform_id and time. Any observation can be uniquely identified by these two variables. The [directory sturcture](https://coastwatch.pfeg.noaa.gov/erddap/download/setupDatasetsXml.html#httpGetDirectoryStructure) tells ERDDAP how to organize the incoming data. In our case, the simpliest answer that works is platform_id.
+After the directory name and file name (in this case you can leve it blank) you have to [identify which variables are "required"](https://coastwatch.pfeg.noaa.gov/erddap/download/setupDatasetsXml.html#httpGetRequiredVariables). In this example we'll say platform_id and time. Any observation can be uniquely identified by these two variables. The [directory structure](https://coastwatch.pfeg.noaa.gov/erddap/download/setupDatasetsXml.html#httpGetDirectoryStructure) tells ERDDAP how to organize the incoming data. In our case, the simplest answer that works is platform_id.
 
-Finally, tell ERDDAP who can post data with the [getKeys](https://coastwatch.pfeg.noaa.gov/erddap/download/setupDatasetsXml.html#httpGetKeys). I typically use lastname_PASSWORD. These keys are obstensibly secrets that you want to keep out of your github repo and not share.
+Tell ERDDAP who can post data with the [getKeys](https://coastwatch.pfeg.noaa.gov/erddap/download/setupDatasetsXml.html#httpGetKeys). I typically use lastname_PASSWORD. These keys are ostensibly secrets that you want to keep out of your github repo and not share.
+
+If you know the structure of the data (in terms of the DSG type) you can go ahead and define the cdm_data_type, the data type variables (cdm_trajectory_variables, for example), and assign the appropriate variable the id cf_role.
