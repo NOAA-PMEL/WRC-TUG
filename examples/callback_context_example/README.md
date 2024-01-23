@@ -1,0 +1,1 @@
+This is a simple example which shows how to make a call back which reacts to one of two inputs. In this case if the menu change, the graph goes back to the default empty graph and the app awaits input from a map click. If a map click occurs, the app draws the timeseries for the selected platform.
