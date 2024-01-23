@@ -1,0 +1,1 @@
+This directory contains an example of updating from an ERDDAP that is receiving new data in near real-time. The graph updates once a second based on an interval tick from Plotly in th browser. The app saves the last time in the data set. On the next tick the app asks for new data since the time saved and updates the plot using the dataExtend parameter in the graph.
