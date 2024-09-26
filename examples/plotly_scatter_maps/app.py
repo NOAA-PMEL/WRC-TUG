@@ -32,6 +32,7 @@ for idx, platform in enumerate(platforms):
 
 slippy_map.update_layout(
         legend_title='Platform',
+        hoverlabel={'namelength' :-1},
         legend_orientation="v",
         legend_x=1.,
         height=1000,
@@ -53,9 +54,9 @@ slippy_map.update_layout(
         mapbox_center=center,
     )
 
-slippy_px = px.scatter_map(df, lat='latitude', lon='longitude', color='platform', zoom=zoom, center=center, height=1000)
+slippy_px = px.scatter_map(df, lat='latitude', lon='longitude', color='platform', zoom=zoom, center=center, height=1000, color_discrete_sequence=cc.b_glasbey_bw)
 
-lambert = px.scatter_geo(df, lat='latitude', lon='longitude', color='platform')
+lambert = px.scatter_geo(df, lat='latitude', lon='longitude', color='platform', color_discrete_sequence=cc.b_glasbey_bw)
 lambert.update_layout(height=1000,)
 lambert.update_geos(showcoastlines=True, coastlinecolor="RebeccaPurple",
                             showland=True, landcolor="LightGreen",
