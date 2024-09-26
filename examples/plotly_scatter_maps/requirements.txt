@@ -1,0 +1,8 @@
+--extra-index-url https://dash-temp.pmel.noaa.gov/packages
+dash-design-kit
+plotly>=2.54.1
+dash>=2.18.1
+colorcet
+gunicorn
+pandas
+git+https://github.com/noaaroland/sdig.git
