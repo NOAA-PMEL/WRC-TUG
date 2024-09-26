@@ -6,7 +6,7 @@
 ## Simple Lambert Equal Area "Geos" map with some background colors for features.
 ![image](https://github.com/user-attachments/assets/d95633b6-9dee-44ac-b218-c68208f8e753)
 
-## NOAA/NCEI Bathy Tiles, every trace has a unique color
+## NOAA/NCEI Bathy Tiles
 ![image](https://github.com/user-attachments/assets/d00757a6-f5af-4d26-a520-e6ba4dc143cd)
 
 
